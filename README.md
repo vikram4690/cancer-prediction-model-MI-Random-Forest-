@@ -1,4 +1,4 @@
-# 🧬 Cancer Type Prediction from Gene Expression  
+# Cancer Type Prediction from Gene Expression  
 
 This project uses **machine learning** to predict the type of cancer based on **gene expression profiles**.  
 A **Random Forest classifier** (with One-vs-Rest strategy) is trained to classify 5 cancer types.  
@@ -6,7 +6,7 @@ A **Gradio web interface** is included so you can test predictions interactively
 
 ---
 
-## 📌 Dataset  
+## Dataset  
 
 - **Source**: [Cancer Gene Expression Dataset](https://github.com/vappiah/Machine-Learning-Tutorials/raw/main/datasets/cancer_gene_expression.zip)  
 - **Shape**: `801 samples × 20,532 columns`  
@@ -19,7 +19,7 @@ A **Gradio web interface** is included so you can test predictions interactively
 
 ---
 
-## ⚙️ Workflow  
+##  Workflow  
 
 1. **Data Preprocessing**  
    - Missing value check  
@@ -48,7 +48,7 @@ A **Gradio web interface** is included so you can test predictions interactively
 
 ---
 
-## 🚀 Usage  
+## Usage  
 
 ### 1. Clone Repository  
 ```bash
